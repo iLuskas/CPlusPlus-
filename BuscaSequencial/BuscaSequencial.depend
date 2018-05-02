@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1523563534 source:c:\users\lucaum-pc\documents\c++\buscasequencial\main.cpp
+	<iostream>
+	<stdlib.h>
+
